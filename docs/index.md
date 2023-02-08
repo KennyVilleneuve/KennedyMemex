@@ -2,7 +2,7 @@
 
 ## Sources
 --- 
-* [[@canadaDebatesIssue96SourceNote]]*
+* [[@canadaDebatesIssue96SourceNote]]
 
 ## Atomic Notes 
 ---
