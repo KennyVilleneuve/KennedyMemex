@@ -1,1 +1,0 @@
-The second World war, fought between the allies plus the Soviet Union against the Axis, the war resulted in Genocide and the deaths of millions of people, with the axis surrendering in 1945. 

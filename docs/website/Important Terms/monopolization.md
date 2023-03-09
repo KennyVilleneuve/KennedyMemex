@@ -1,1 +1,0 @@
-The process by which [[Largecorparations]] buy out their competitors and become a [[monopoly]]

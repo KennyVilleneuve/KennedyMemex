@@ -1,1 +1,0 @@
-Companies that are large, and are able to buy out their competitors and excert their will on populations. 

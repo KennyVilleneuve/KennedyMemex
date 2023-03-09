@@ -1,1 +1,0 @@
-Reserach undertaken and/or subsidized by the Goverment. 

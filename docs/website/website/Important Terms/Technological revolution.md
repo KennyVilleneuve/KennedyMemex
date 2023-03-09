@@ -1,1 +1,0 @@
-The spark started during the second world war that led to the huge growth of computing and eventually the internet. 

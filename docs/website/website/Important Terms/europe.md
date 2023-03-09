@@ -1,1 +1,0 @@
-A conitnent comprising a number of countries, inlcuding France, Germany and Norway

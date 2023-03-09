@@ -1,1 +1,0 @@
-The world's Governing body, made up of representatives from across the globe, coming to gtehr to collaborate in the best interests of all people. 

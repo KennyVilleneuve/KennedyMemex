@@ -1,1 +1,0 @@
-The result of [[monopolization]], a larg corparation that has corned the market, and without competition is able to inflate prices without retrabution.

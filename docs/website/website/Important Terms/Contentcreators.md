@@ -1,1 +1,0 @@
-A content creator is responsible for the creation of content for their audience or the audience of a brand,enterprise or other client. 
