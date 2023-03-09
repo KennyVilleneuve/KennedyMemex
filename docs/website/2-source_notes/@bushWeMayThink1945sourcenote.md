@@ -29,4 +29,4 @@ In the context of today Bush's memex is very similar to the internet or sites li
 --- 
 
 ### Links
-[[A look into the future from 1945]] [[Should wikipedia be nationalized?]]
+[[A look into the future from 1945]] [[Should wikipedia be nationalized.]]

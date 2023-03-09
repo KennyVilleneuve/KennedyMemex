@@ -32,4 +32,4 @@ The fact of the matter is that English is being given a leg up online, as such G
 
 ### Links
 
-[[Discoverablity of non mainstreem music on the Internet.]][[Should the free market determine the Langa- franca of the Internet?]]
+[[Discoverablity of non mainstreem music on the Internet.]][[Should the free market determine the Langafranca of the Internet.]]

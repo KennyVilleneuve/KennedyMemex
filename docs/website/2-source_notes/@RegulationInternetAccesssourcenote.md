@@ -33,4 +33,4 @@ This article points to the fact that at times regulation is needed, as evidenced
 --- 
 
 ### Links
-[[Comdity Fetishism and the internet]][[Should the internet be for sale?]]
+[[Comdity Fetishism and the internet]][[Should the internet be for sale.]]

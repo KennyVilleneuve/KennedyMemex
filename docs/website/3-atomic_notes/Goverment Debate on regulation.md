@@ -16,4 +16,4 @@ The Debate in the Senate of Canada Surrounf the Federal Goverment's goal of regu
 ---
 
 ### Related Links
-[[billc-11]][[Canadiancontent]][[Contentcreators]][[CRTC]][[Goverment]][[InternetRegulation]][[Largecorparations]][[monopolization]][[monopoly]][[Why the Debate on c-11?]]
+[[billc-11]][[Canadiancontent]][[Contentcreators]][[CRTC]][[Goverment]][[InternetRegulation]][[Largecorparations]][[monopolization]][[monopoly]][[Why the Debate on c-11.]]

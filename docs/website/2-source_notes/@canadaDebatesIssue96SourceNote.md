@@ -31,4 +31,4 @@ The debate around regulation of the Internet is one of the most pressing questio
 --- 
 
 ### Links
-[[Goverment Debate on regulation]][[Why the Debate on c-11?]]
+[[Goverment Debate on regulation]][[Why the Debate on c-11.]]

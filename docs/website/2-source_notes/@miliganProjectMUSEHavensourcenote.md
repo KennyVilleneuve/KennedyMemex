@@ -34,4 +34,4 @@ As in the era of the early internet the debate rages today as to weather or not 
 
 ### Links
 Put any links to separate notes you have teased out here.
-[[An early Attempt at internet regulation in Canada]][[Do children have a place on the internet?]]
+[[An early Attempt at internet regulation in Canada]][[Do children have a place on the internet.]]
