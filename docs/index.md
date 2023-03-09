@@ -2,11 +2,11 @@
 (theory is cool,)
 ## Sourcenotes
 --- 
-* [[@canadaDebatesIssue96SourceNote]]
-* [[@EtreOunesourcenote]]
-* [[@miliganProjectMUSEHavensourcenote]]
-* [[@bushWeMayThink1945sourcenote]]
-* [[@RegulationInternetAccesssourcenote]]
+* [[canadaDebatesIssue96SourceNote]]
+* [[EtreOunesourcenote]]
+* [[miliganProjectMUSEHavensourcenote]]
+* [[bushWeMayThink1945sourcenote]]
+* [[RegulationInternetAccesssourcenote]]
 
 ## Atomic Notes 
 ---
@@ -20,11 +20,11 @@
 
 ## Idea Notes
 ---
-* [[Do children have a place on the internet?]]
-* [[Should the free market determine the Langa- franca of the Internet?]]
-* [[Should the internet be for sale?]]
-* [[Should wikipedia be nationalized?]]
-* [[Why the Debate on c-11?]]
+* [[Do children have a place on the internet.]]
+* [[Should the free market determine the Langafranca of the Internet.]]
+* [[Should the internet be for sale.]]
+* [[Should wikipedia be nationalized.]]
+* [[Why the Debate on c-11.]]
 
 
 ## Class notes 
