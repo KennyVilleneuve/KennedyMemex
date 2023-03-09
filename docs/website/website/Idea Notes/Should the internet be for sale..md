@@ -1,4 +1,3 @@
-
 Should the internet be for sale.
 date: 03/09/23
 type: permanent

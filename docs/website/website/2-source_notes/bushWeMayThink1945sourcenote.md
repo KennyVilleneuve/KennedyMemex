@@ -1,9 +1,10 @@
----
-Title: [@bushWeMayThink1945]
+
+Title: bushWeMayThink1945sourcenote
 date: 2023-02-09
 type: reference
-project:
+
 ---
+
 
 tags:: [[Govermentresearch]][[InternetRegulation]][[earlyinternet]][[WW2]][[Technological revolution]]
 

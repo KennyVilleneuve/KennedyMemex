@@ -1,5 +1,4 @@
-
- Should wikipedia be nationalized.
+Should wikipedia be nationalized.
 date: 03/09/23
 type: permanent
 project: Should wikipedia be nationalized.
